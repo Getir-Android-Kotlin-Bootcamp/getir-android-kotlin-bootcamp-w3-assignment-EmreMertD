@@ -7,6 +7,8 @@ Bu depo, fragmentler arası geçiş yapmak için Navigation component'inin kulla
 
 ## Genel Bakış
 
+![Alternatif metin](ekranresmi.png)
+
 Uygulamada üç ana fragment bulunmaktadır:
 - `AccountFragment`: Kullanıcıların yeni bir hesap oluşturmak için `CreateAccountFragment`e veya giriş yapmak için `LoginAccountFragment`e geçiş yapabileceği başlangıç fragmenti.
 - `CreateAccountFragment`: Kullanıcıların yeni bir hesap oluşturabileceği fragment.
